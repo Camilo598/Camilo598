@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi, I'm Nixson 👋👨‍💻  
 
+![Nixson](https://user-images.githubusercontent.com/31456664/122656402-ce48c900-d11f-11eb-82a9-a922ccd759bd.PNG)
+
+```js
+const midudev = {
+  pronouns: "he"  |   "him",
+  code: [Javescript, HTML, CSS],
+  tools: [React, Node, Storybook, Styled-Components, Jest, Docker].
+}
+``` 
 <!--
 **Camilo598/Camilo598** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
