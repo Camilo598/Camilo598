@@ -10,6 +10,9 @@ const midudev = {
 
 You can find me 🌎:
 - [Facebook](https://www.facebook.com/camilo.pinzon.3114)
+
+[![Camilo598's github stats](https://github-readme-stats.vercel.app/api?username=Camilo598)|(https://github.com/anuraghazra/github-readme-stats) 
+
 ``` 
 <!--
 **Camilo598/Camilo598** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
