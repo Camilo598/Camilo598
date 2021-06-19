@@ -3,7 +3,7 @@
 ![Nixson](https://user-images.githubusercontent.com/31456664/122656402-ce48c900-d11f-11eb-82a9-a922ccd759bd.PNG)
 
 ```js
-const midudev = {
+const Camilo598 = {
   technologies: 'web',
   passions: ['Performance Web']
 }
