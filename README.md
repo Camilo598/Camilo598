@@ -2,9 +2,6 @@
 
 ![Nixson](https://user-images.githubusercontent.com/31456664/122656402-ce48c900-d11f-11eb-82a9-a922ccd759bd.PNG)
 
-<a href="https://twitter.com/CamiloNixson">
-  <img align="left" alt="CamiloNixson | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
 
 ## about me in code
 
@@ -19,6 +16,10 @@ const Camilo598 = {
 ## you can find me 🌎:
 - [Facebook](https://www.facebook.com/camilo.pinzon.3114)
 - [Twitter](https://twitter.com/CamiloNixson)
+
+<a href="https://twitter.com/CamiloNixson">
+   <img align="left" alt="CamiloNixson | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
 
 [![Camilo598's GitHub stats](https://github-readme-stats.vercel.app/api?username=Camilo598)](https://github.com/anuraghazra/github-readme-stats)
 
