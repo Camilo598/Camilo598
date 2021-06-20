@@ -9,6 +9,12 @@
 
 <p align="left"> <a href="https://twitter.com/camilonixson" target="blank"><img src="https://img.shields.io/twitter/follow/camilonixson?logo=twitter&style=for-the-badge" alt="camilonixson" /></a> </p>
 
+- 🔭 I’m currently working on [Sharing web development content](https://sinick.netlify.app/)
+
+- 🌱 I’m currently learning **Js,PHP,MySQL**
+
+- 💬 Ask me about **Html,Css**
+
 - 📫 How to reach me **pinzon0930@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
