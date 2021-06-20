@@ -12,6 +12,7 @@ const Camilo598 = {
 
 You can find me 🌎:
 - [Facebook](https://www.facebook.com/camilo.pinzon.3114)
+- [Twitter](https://twitter.com/CamiloNixson)
 
 [![Camilo598's GitHub stats](https://github-readme-stats.vercel.app/api?username=Camilo598)](https://github.com/anuraghazra/github-readme-stats)
 
