@@ -2,6 +2,12 @@
 
 ![Nixson](https://user-images.githubusercontent.com/31456664/122656402-ce48c900-d11f-11eb-82a9-a922ccd759bd.PNG)
 
+<a href="https://twitter.com/CamiloNixson">
+  <img align="left" alt="CamiloNixson | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+
+## about me in code
+
 ```js
 const Camilo598 = {
   technologies: 'web',
@@ -10,7 +16,7 @@ const Camilo598 = {
 
 ``` 
 
-You can find me 🌎:
+## you can find me 🌎:
 - [Facebook](https://www.facebook.com/camilo.pinzon.3114)
 - [Twitter](https://twitter.com/CamiloNixson)
 
